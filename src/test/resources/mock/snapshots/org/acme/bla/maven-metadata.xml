@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <groupId>org.acme</groupId>
+    <artifactId>bla</artifactId>
+    <versioning>
+        <latest>0.2.0-SNAPSHOT</latest>
+        <release></release>
+        <versions>
+            <version>0.1.0-SNAPSHOT</version>
+            <version>0.2.0-SNAPSHOT</version>
+        </versions>
+        <lastUpdated>20160601000856</lastUpdated>
+    </versioning>
+</metadata>
