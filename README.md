@@ -1,5 +1,7 @@
 # Rundeck Maven Repository Plugin
 
+[![Build Status](https://travis-ci.org/grafjo/rundeck-maven-repository-step-plugin.svg?branch=master)](https://travis-ci.org/grafjo/rundeck-maven-repository-step-plugin)
+
 This plugin can download a maven artifact from a given maven repository
 and distributes the artifact to your managed nodes
 
